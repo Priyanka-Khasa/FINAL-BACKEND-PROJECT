@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment files
+.env
+*.env
+
+# SQLite database
+db.sqlite3
+
+# Pycache folders
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# IDE folders
+.vscode/
+.idea/
+
+# Migrations cache
+*/migrations/__pycache__/
